@@ -22,4 +22,6 @@ are suitable according to customer's need.
  3. Light/Water:This describes how much water and light the plant to be neede for proper growth.
    
     (![Plants](image.png))
+
+    
    "Every gardener is a storyteller; every plant is a chapter."
