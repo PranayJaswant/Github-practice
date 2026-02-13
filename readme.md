@@ -19,12 +19,6 @@ are suitable according to customer's need.
  For every plant these three points are important:
  1. Description:This describes the plants age,color and its features.
  2. Best for:This describes the plant's ability and its main features.
- 3. Light/Water:This describes how much water and light the plant to be neede for proper growth.
+ 3. Light/Water:This describes how much water and light the plant to be needed for proper growth.
    
-    (![Plants](image.png))
-
-
-
-
-    
-   "Every gardener is a storyteller; every plant is a chapter."
+    (![Plants](image.png)
