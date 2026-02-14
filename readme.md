@@ -19,10 +19,10 @@ to avoid toxic plants.
 - Tips for common plants problem:using well-draining pots, checking soil moisture (water only when the top inch is dry), ensuring proper indirect light, and cleaning leaves regularly.
   
 
-  Technologies Used:The programming language used in this website is
-   html.where i add basic tags like <h1>,<img>,<h2>&<p> tags with 
-   its attributes.
-   The sample of website's code is,
+  *Technologies Used:The programming language used in this website is
+   html.where i add basic tags tags with its attributes.
+   The sample of website's code is,*
+
    ```html
    <body>
      <h1>Friendly House plants </h1>
