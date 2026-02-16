@@ -11,11 +11,11 @@ to avoid toxic plants.
 **Features:**
 - A searchable database of non toxic plants.
 - Care instructions(watering,light requirements,best for,etc.)for each plant.
-- ![Golden Pothos]("https://m.media-amazon.com/images/I/61otC5noEYL._AC_UF1000,1000_QL80_.jpg")
-- ![Snake Plant]("https://m.media-amazon.com/images/I/61LjnhXXWIL._AC_UF1000,1000_QL80_.jpg")
-- ![ZZ Plant]("https://m.media-amazon.com/images/I/41NlnZigCeL._AC_UF1000,1000_QL80_.jpg")
-- ![Spider Plant]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ro99lpIEVnuPw_llvXQ13Lg1gQckVp-HFA&s" )
-- ![Heartleaf Philodendron]("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ06a88KqXT88GuiWI80xeS0OSotejUdWACw&s")
+- ![Golden Pothos]("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Golden pothos.jpg")
+- ![Snake Plant]("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Snake Plant.gif")
+- ![ZZ Plant]("C:\Users\ASUS\OneDrive\Desktop\Github-practice\ZZ plant.jpg")
+- ![Spider Plant]("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Spider plant.jpg" )
+- ![Heartleaf Philodendron]("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Heartleaf Philodendron.jpg")
 - Tips for common plants problem:using well-draining pots, checking soil moisture (water only when the top inch is dry), ensuring proper indirect light, and cleaning leaves regularly.
   
 
