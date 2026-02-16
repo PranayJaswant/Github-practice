@@ -10,12 +10,12 @@ to avoid toxic plants.
 
 **Features:**
 - A searchable database of non toxic plants.
-- Care instructions(watering,light requirements,best for,etc.)for each plant.
-- ![Golden Pothos] ("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Golden pothos.jpg")
-- ![Snake Plant] ("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Snake Plant.gif")
-- ![ZZ Plant] ("C:\Users\ASUS\OneDrive\Desktop\Github-practice\ZZ plant.jpg")
-- ![Spider Plant] ("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Spider plant.jpg" )
-- ![Heartleaf Philodendron] ("C:\Users\ASUS\OneDrive\Desktop\Github-practice\Heartleaf Philodendron.jpg")
+- Care instructions(watering,light requirements,best for,etc.) for each plant.
+- ![Golden POthos](<Golden pothos.jpg>)  
+- ![Snake plant](<Snake Plant.gif>)
+- ![ZZ Plant](<ZZ plant.jpg>)
+- ![Spider Plant](<Spider plant.jpg>)
+- ![Heartleaf Philodendron](<Heartleaf Philodendron.jpg>)
 - Tips for common plants problem:using well-draining pots, checking soil moisture (water only when the top inch is dry), ensuring proper indirect light, and cleaning leaves regularly.
   
 
